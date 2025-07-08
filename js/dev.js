@@ -6,3 +6,8 @@ window.alert("STOOOOP");
 }
 return ert
 }
+if(ert>3)
+{
+window.alert("STOOOOP");
+}
+}
